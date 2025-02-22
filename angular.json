@@ -27,9 +27,18 @@
               }
             ],
             "styles": [
-              "src/styles.css"
-            ],
-            "scripts": []
+              "src/styles.css",
+  "node_modules/bootstrap/dist/css/bootstrap.min.css",
+  "node_modules/admin-lte/dist/css/adminlte.min.css",
+  "node_modules/overlayScrollbars/css/OverlayScrollbars.min.css"
+],
+"scripts": [
+  "node_modules/jquery/dist/jquery.min.js",
+  "node_modules/jquery-ui-dist/jquery-ui.min.js",
+  "node_modules/bootstrap/dist/js/bootstrap.bundle.min.js",
+  "node_modules/overlayscrollbars/js/jquery.overlayScrollbars.min.js",
+  "node_modules/admin-lte/dist/js/adminlte.min.js"
+]
           },
           "configurations": {
             "production": {
