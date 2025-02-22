@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { ForgetPasswordService } from '../forget-password/forget-password.service';
 
 @Component({
   selector: 'app-invoice',
@@ -8,5 +9,6 @@ import { Component } from '@angular/core';
   styleUrl: './invoice.component.css'
 })
 export class InvoiceComponent {
+
 
 }
